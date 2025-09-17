@@ -1,0 +1,31 @@
+{
+  "name": "Yoruba Cinemax",
+  "tagline": "Nigeria's Premier Yoruba Movie Destination",
+  "featuredMovieId": null,
+  "liveTvEnabled": true,
+  "liveTvUrl": "https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8",
+  "copyrightYear": "2025",
+  "contact": {
+    "email": "support@yorubacinemax.com",
+    "phone": "+234-123-456-7890",
+    "address": "123 Film House, Ikeja, Lagos."
+  },
+  "socials": [
+    {
+      "platform": "Facebook",
+      "url": "https://www.facebook.com/nolly.silver.screen"
+    },
+    {
+      "platform": "Twitter",
+      "url": "https://twitter.com/nollywoodreinven"
+    },
+    {
+      "platform": "Instagram",
+      "url": "https://www.instagram.com/nollywoodreinvented"
+    },
+    {
+      "platform": "YouTube",
+      "url": "https://www.youtube.com/@NollywoodpicturesTV"
+    }
+  ]
+}
