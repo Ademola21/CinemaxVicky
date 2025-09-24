@@ -1,0 +1,2419 @@
+[
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:53:07.909Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T09:53:07.914Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:56:07.931Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:56:07.932Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:56:07.936Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T09:56:07.937Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T09:56:07.942Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:59:07.958Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T09:59:07.959Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T09:59:07.962Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:02:07.984Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:02:07.985Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:02:07.989Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:02:07.990Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:02:07.995Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:02:07.996Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:05:08.010Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:08:08.036Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:08:08.037Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T10:08:08.039Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:08:08.041Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:11:08.063Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:11:08.065Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:11:08.070Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:11:08.075Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:14:08.089Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:14:08.090Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:17:08.115Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:17:08.117Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:17:08.120Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:17:08.122Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:17:08.124Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T10:17:08.126Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T10:17:08.128Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:20:08.141Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:20:08.142Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T10:20:08.145Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:23:08.167Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:23:08.168Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:23:08.171Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:26:08.193Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:26:08.194Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:26:08.198Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T10:26:08.200Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:26:08.202Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:29:08.218Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:29:08.221Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:29:08.223Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:29:08.226Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:32:08.243Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:32:08.244Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:32:08.247Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T10:32:08.248Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:35:08.268Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:35:08.269Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T10:35:08.272Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:38:08.293Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:38:08.294Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:38:08.295Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:38:08.298Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:41:08.318Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:41:08.320Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:44:08.343Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:44:08.344Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T10:44:08.347Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:47:08.370Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T10:47:08.371Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:47:08.378Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T10:47:08.380Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:50:08.393Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:50:08.394Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T10:50:08.432Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:53:08.419Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:53:08.421Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:53:08.426Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T10:53:08.433Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:56:08.442Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:56:08.443Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:56:08.449Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T10:56:08.452Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:59:08.466Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T10:59:08.467Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:02:08.490Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:02:08.491Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T11:02:08.519Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:05:08.514Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T11:05:08.519Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:08:08.538Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:08:08.539Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:11:08.562Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:11:08.563Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:11:08.592Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:11:08.601Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T11:11:08.604Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:11:08.614Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:11:08.616Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:14:08.586Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:14:08.587Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:14:08.588Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T11:14:08.594Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:17:08.610Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:17:08.611Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:17:08.614Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:20:08.633Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:20:08.635Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:20:08.686Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:23:08.656Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:23:08.657Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:23:08.662Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:26:08.679Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:26:08.680Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:29:08.702Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:29:08.703Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T11:29:08.705Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:32:08.725Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:32:08.726Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:32:08.730Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:32:08.731Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:32:08.734Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:35:08.748Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:35:08.749Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:35:08.754Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:38:08.771Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:38:08.773Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T11:38:08.775Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:38:08.776Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:41:08.792Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:41:08.795Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:41:08.798Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:41:08.799Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:41:08.801Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:44:08.816Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:44:08.817Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:44:08.818Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T11:44:08.822Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:47:08.838Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:47:08.839Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:47:08.842Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T11:47:08.843Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:50:08.860Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T11:50:08.862Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T11:50:08.865Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:53:08.883Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:53:08.885Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T11:53:08.890Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:56:08.904Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:56:08.906Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:56:08.909Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T11:56:08.912Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T11:56:08.913Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:59:08.925Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:59:08.927Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:59:08.932Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T11:59:08.933Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T11:59:08.934Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T11:59:08.937Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:02:08.946Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:05:08.967Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:05:08.968Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T12:05:08.972Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:08:08.987Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:08:08.989Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T12:08:08.990Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:11:09.009Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T12:11:09.010Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:14:09.029Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:14:09.031Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T12:14:09.035Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T12:14:09.037Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:17:09.050Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:17:09.051Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:17:09.060Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:20:09.070Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:20:09.071Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:20:09.074Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:20:09.075Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:20:09.078Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T12:20:09.079Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:23:09.090Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:23:09.091Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:23:09.095Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:23:09.096Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T12:23:09.099Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:26:09.110Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:26:09.111Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:26:09.117Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:26:09.122Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T12:26:09.126Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:26:09.129Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:29:09.130Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:29:09.132Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T12:29:09.134Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:32:09.150Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:32:09.151Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:32:09.154Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:35:09.170Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:35:09.171Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:35:09.173Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:38:09.190Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:38:09.191Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:41:09.209Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:44:09.228Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:44:09.229Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:44:09.232Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T12:44:09.233Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:47:09.247Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:47:09.248Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:47:09.251Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T12:47:09.253Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:47:09.254Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:50:09.267Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:53:09.286Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:53:09.287Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:53:09.288Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:53:09.291Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T12:53:09.293Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:56:09.305Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:56:09.306Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:59:09.324Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T12:59:09.325Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T12:59:09.328Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T12:59:09.329Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:02:09.342Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:02:09.343Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T13:02:09.347Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:05:09.360Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:05:09.361Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:08:09.378Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:08:09.379Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:08:09.381Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:11:09.396Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:11:09.397Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T13:11:09.400Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:14:09.416Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:14:09.417Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:17:09.434Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:17:09.435Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T13:17:09.437Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:17:09.440Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:17:09.442Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:20:09.452Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:20:09.453Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:20:09.550Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:23:09.470Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:23:09.471Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T13:23:09.472Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:26:09.486Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:26:09.487Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:29:09.503Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:29:09.504Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:32:09.520Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:32:09.521Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:32:09.531Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T13:32:09.532Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:35:09.537Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:35:09.539Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:35:09.542Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:35:09.543Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:35:09.544Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:38:09.555Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:38:09.556Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:38:09.558Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:38:09.560Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:38:09.563Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:41:09.572Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:41:09.573Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:41:09.574Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:44:09.588Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:44:09.589Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:44:09.591Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:44:09.595Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:44:09.597Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:47:09.605Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:47:09.606Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T13:47:09.608Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:50:09.621Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:50:09.624Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:50:09.633Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:50:09.635Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:53:09.639Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:53:09.640Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:53:09.644Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T13:53:09.646Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:56:09.654Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:56:09.656Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:56:09.657Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:56:09.660Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T13:59:09.670Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T13:59:09.671Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:02:09.686Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:02:09.687Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:02:09.689Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:02:09.690Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:05:09.702Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:05:09.704Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:05:09.707Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:05:09.709Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:08:09.717Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:08:09.718Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:08:09.724Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:08:09.725Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:11:09.732Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:11:09.733Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:11:09.738Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:11:09.741Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:11:09.742Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:11:09.743Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:14:09.747Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:14:09.749Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:17:09.762Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:17:09.765Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T14:17:09.769Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:20:09.777Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:20:09.778Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:20:09.781Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:20:09.784Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:23:09.792Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:23:09.793Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T14:23:09.811Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:23:09.812Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:23:09.817Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:26:09.805Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:26:09.808Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:29:09.820Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:29:09.821Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:29:09.823Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:29:09.828Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:32:09.834Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:32:09.835Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:32:09.838Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:35:09.849Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:35:09.851Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:35:09.854Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:35:09.855Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:35:09.859Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:35:09.860Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:38:09.863Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:38:09.864Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:38:09.865Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:38:09.870Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:41:09.877Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:41:09.880Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:41:09.883Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:41:09.884Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:44:09.890Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:44:09.892Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:44:09.893Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:44:09.897Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:47:09.903Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:47:09.905Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:47:09.914Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:47:09.919Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:47:09.922Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:50:09.916Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:50:09.917Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T14:50:09.954Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:53:09.929Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:53:09.932Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T14:53:09.937Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:53:09.938Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:56:09.942Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:56:09.943Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:56:09.944Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T14:56:09.947Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T14:59:09.957Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T14:59:09.961Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:02:09.969Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:02:09.973Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:02:09.980Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:05:09.981Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:05:09.983Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:05:09.986Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T15:05:09.987Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T15:05:09.989Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:08:09.993Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T15:08:09.994Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:11:10.006Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:11:10.007Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:14:10.018Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:14:10.021Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:14:10.025Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T15:14:10.027Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:17:10.029Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:17:10.030Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:17:10.033Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:17:10.034Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:17:10.036Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T15:17:10.038Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:20:10.041Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:20:10.042Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T15:20:10.045Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T15:20:10.046Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:23:10.052Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:23:10.054Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:23:10.056Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T15:23:10.058Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:26:10.063Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T15:26:10.067Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:29:10.075Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:32:10.085Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:35:10.096Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:35:10.097Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:38:10.107Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:38:10.108Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:38:10.111Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:41:10.117Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T15:41:10.120Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T15:41:10.125Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T15:44:10.127Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:34:28.071Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T19:34:28.073Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:37:28.098Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:37:28.100Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:37:28.110Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:37:28.111Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T19:37:28.112Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:40:28.127Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:40:28.128Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:40:28.136Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:40:28.137Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T19:40:28.138Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:43:28.156Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:43:28.158Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:43:28.169Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:43:28.170Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T19:43:28.171Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T19:43:28.173Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:46:28.184Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:46:28.185Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T19:46:28.188Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:49:28.213Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:49:28.214Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:49:28.226Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:49:28.228Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:49:28.230Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:54:43.418Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:54:43.419Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T19:54:43.428Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T19:54:43.429Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T19:57:43.429Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T19:57:43.430Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:00:43.458Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T20:00:43.460Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T20:00:43.465Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:15:30.738Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T20:15:30.739Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:18:30.763Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:18:30.764Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:18:30.783Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:21:30.792Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:21:30.794Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:21:30.840Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T20:21:30.841Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:24:30.821Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:24:30.822Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:24:30.840Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T20:24:30.841Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:27:30.850Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T20:27:30.851Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T20:27:30.855Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T20:27:30.856Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:13:32.936Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:13:32.938Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:16:32.960Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:16:32.961Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:16:32.966Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:16:32.967Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:19:32.990Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:19:32.991Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:19:32.998Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T23:19:33.001Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:23:19.868Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:23:19.869Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:23:19.878Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T23:23:19.879Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:26:19.897Z"
+  },
+  {
+    "type": "SIGNUP",
+    "timestamp": "2025-09-24T23:26:19.899Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "King of Thieves (Ogundabede)"
+    },
+    "timestamp": "2025-09-24T23:26:19.902Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:29:19.927Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:29:19.930Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:29:19.932Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:37:29.139Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:37:29.141Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:37:29.148Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T23:37:29.150Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T23:37:29.151Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:40:29.168Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T23:40:29.170Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:44:42.604Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:44:42.604Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:44:42.611Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T23:44:42.613Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T23:44:42.615Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:47:42.604Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:47:42.606Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Aníkúlápó"
+    },
+    "timestamp": "2025-09-24T23:47:42.608Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Jagun Jagun (The Warrior)"
+    },
+    "timestamp": "2025-09-24T23:47:42.610Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:50:42.634Z"
+  },
+  {
+    "type": "VISIT",
+    "timestamp": "2025-09-24T23:50:42.635Z"
+  },
+  {
+    "type": "MOVIE_CLICK",
+    "payload": {
+      "movieTitle": "Gangs of Lagos"
+    },
+    "timestamp": "2025-09-24T23:50:42.651Z"
+  }
+]

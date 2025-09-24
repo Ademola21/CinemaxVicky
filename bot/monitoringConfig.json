@@ -1,0 +1,9 @@
+{
+  "autonomousFinder": {
+    "enabled": false,
+    "checkIntervalMinutes": 1,
+    "channelUrls": [
+      "https://youtube.com/@itelediconstudio"
+    ]
+  }
+}

@@ -1,0 +1,85 @@
+<script type="importmap">
+{
+  "imports": {
+    "react/": "https://aistudiocdn.com/react@^19.1.1/",
+    "react": "https://aistudiocdn.com/react@^19.1.1",
+    "react-router-dom": "https://aistudiocdn.com/react-router-dom@^7.9.1",
+    "react-dom/": "https://aistudiocdn.com/react-dom@^19.1.1/",
+    "tslib": "https://cdn.jsdelivr.net/npm/tslib@2.6.3/tslib.es6.js",
+    "node-telegram-bot-api": "https://aistudiocdn.com/node-telegram-bot-api@^0.66.0",
+    "fs": "https://aistudiocdn.com/fs@^0.0.1-security",
+    "path": "https://aistudiocdn.com/path@^0.12.7",
+    "@aws-sdk/client-bedrock-runtime": "https://aistudiocdn.com/@aws-sdk/client-bedrock-runtime@^3.888.0",
+    "buffer": "https://aistudiocdn.com/buffer@^6.0.3",
+    "url": "https://aistudiocdn.com/url@^0.11.4",
+    "@google/genai": "https://aistudiocdn.com/@google/genai@^1.19.0",
+    "express": "https://aistudiocdn.com/express@^5.1.0",
+    "crypto": "https://aistudiocdn.com/crypto@^1.0.1",
+    "@azure/openai": "https://aistudiocdn.com/@azure/openai@^2.0.0"
+  }
+}
+</script>
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <!-- Security Header: Prevents clickjacking -->
+    <meta http-equiv="X-Frame-Options" content="DENY">
+    <!-- Security Header: Content Security Policy (CSP) to prevent XSS -->
+    <meta http-equiv="Content-Security-Policy" content="
+        default-src 'self'; 
+        script-src 'self' https://aistudiocdn.com https://cdn.jsdelivr.net https://cdn.tailwindcss.com; 
+        style-src 'self' 'unsafe-inline' https://fonts.googleapis.com; 
+        img-src 'self' data: https://picsum.photos; 
+        font-src 'self' https://fonts.gstatic.com; 
+        connect-src 'self' https://co.wuk.sh; 
+        frame-src https://www.youtube.com; 
+        media-src 'self' https://test-streams.mux.dev;">
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Yoruba Cinemax</title>
+    <!-- NOTE: Tailwind CDN is not recommended for production. It's used here for simplicity. A production build would use the Tailwind CLI. -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap" rel="stylesheet">
+    <!-- Security: Pinned HLS.js version and added Subresource Integrity check -->
+    <script 
+        src="https://cdn.jsdelivr.net/npm/hls.js@1.5.8/dist/hls.min.js"
+        integrity="sha384-t3uBO9s96rPAOip+86lAm29Q7bKrm9Xjp2hDB20f5jsoi7T/w3f9jo7a5Tfbz2Xh" 
+        crossorigin="anonymous">
+    </script>
+    <style>
+      body {
+        font-family: 'Inter', sans-serif;
+      }
+      @keyframes fadeIn {
+        from {
+          opacity: 0;
+          transform: translateY(15px);
+        }
+        to {
+          opacity: 1;
+          transform: translateY(0);
+        }
+      }
+      .animate-fade-in {
+        opacity: 0;
+        animation: fadeIn 0.6s ease-out forwards;
+      }
+       /* Hide scrollbar for Chrome, Safari and Opera */
+      .no-scrollbar::-webkit-scrollbar {
+          display: none;
+      }
+      /* Hide scrollbar for IE, Edge and Firefox */
+      .no-scrollbar {
+          -ms-overflow-style: none;  /* IE and Edge */
+          scrollbar-width: none;  /* Firefox */
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/index.tsx"></script>
+  </body>
+</html>

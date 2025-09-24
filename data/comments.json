@@ -1,0 +1,20 @@
+{
+  "comments": {
+    "koleoso-part-2": [
+      {
+        "id": "comment_1757957169006",
+        "parentId": null,
+        "reviewer": "Ayeyemi Modupe Roseline",
+        "userId": "user_1757955584766",
+        "comment": "Nice",
+        "date": "2025-09-15T17:26:09.006Z",
+        "rating": 5
+      }
+    ]
+  },
+  "upvotes": {
+    "comment_1757957169006": [
+      "user_1757955584766"
+    ]
+  }
+}
