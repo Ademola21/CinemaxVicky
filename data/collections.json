@@ -1,0 +1,51 @@
+[
+  {
+    "id": "epic-dramas",
+    "title": "Epic Yoruba Dramas",
+    "description": "Experience grand storytelling, rich cultural heritage, and powerful performances in these epic masterpieces.",
+    "movieIds": [
+      "anikalupo",
+      "king-of-thieves",
+      "jagun-jagun",
+      "ayanmo"
+    ]
+  },
+  {
+    "id": "femi-adebayo-showcase",
+    "title": "Best of Femi Adebayo",
+    "description": "A curated selection of films starring the versatile and acclaimed actor, Femi Adebayo.",
+    "movieIds": [
+      "king-of-thieves",
+      "jagun-jagun",
+      "mokalik"
+    ]
+  },
+  {
+    "id": "modern-thrillers",
+    "title": "Modern Thrillers",
+    "description": "Get your heart racing with these suspenseful and gripping modern Yoruba thrillers.",
+    "movieIds": [
+      "ile-owo",
+      "elevator-baby",
+      "ijogbon"
+    ]
+  },
+  {
+    "id": "laugh-out-loud",
+    "title": "Laugh-Out-Loud Comedies",
+    "description": "Unwind and enjoy a good laugh with these hilarious and entertaining comedies.",
+    "movieIds": [
+      "omo-ghetto",
+      "sugar-rush",
+      "gold-statue"
+    ]
+  },
+  {
+    "id": "---collections-management",
+    "title": "📚 Collections Management",
+    "description": "📚 Collections Management",
+    "movieIds": [
+      "📚 Collections Management"
+    ]
+  }
+]
